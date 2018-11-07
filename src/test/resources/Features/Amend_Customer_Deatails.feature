@@ -10,5 +10,5 @@ Feature: Amend Customer Details
     And I click on action
     And I Click on Amend details
     And I Amend the details of the Customer
-    And I click on save
+    And I click on save button
 Then Customer Amendment page is displayed with a an email confirmation sent to the customer to confirm the changes
