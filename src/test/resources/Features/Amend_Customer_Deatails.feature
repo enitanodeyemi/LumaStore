@@ -7,7 +7,7 @@ Feature: Amend Customer Details
 
     Given I am on Lumastore Admin Dashboard
     When I click on 'Customer'
-    And I click on action
+    And I click on action now
     And I Click on Amend details
     And I Amend the details of the Customer
     And I click on save button
