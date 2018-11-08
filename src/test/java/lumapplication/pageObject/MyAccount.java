@@ -1,5 +1,4 @@
 package lumapplication.pageObject;
 
-public class Login {
+public class MyAccount {
 }
-
